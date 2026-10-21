@@ -1,0 +1,6 @@
+@_0630_TuMinhHien_WebAPI_HostAddress = http://localhost:5276
+
+GET {{_0630_TuMinhHien_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

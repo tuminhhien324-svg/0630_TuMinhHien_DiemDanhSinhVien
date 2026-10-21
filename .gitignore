@@ -1,0 +1,31 @@
+# Visual Studio / .NET
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+slnx.sqlite
+VSWorkspaceState.json
+
+# Flutter / Dart
+**/build/
+**/.dart_tool/
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/.idea/
+**/*.iml
+
+# Android
+**/android/.gradle/
+**/android/local.properties
+**/android/app/debug/
+**/android/app/release/
+**/android/app/profile/
+
+# Miscellaneous
+*.log
+*.tmp
+.DS_Store
