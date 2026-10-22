@@ -34,7 +34,7 @@ class ConfigUrl {
     if (kIsWeb) {
       return 'http://localhost:5276/api/';
     } else if (Platform.isAndroid) {
-      return 'http://192.168.1.4:5276/api/';
+      return 'http://192.168.1.47:5276/api/';
     } else {
       return 'http://localhost:5276/api/';
     }

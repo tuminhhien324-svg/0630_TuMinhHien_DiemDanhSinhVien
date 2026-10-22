@@ -168,8 +168,8 @@ class _LoginScreenState extends State<LoginScreen> {
               spacing: 8,
               children: [
                 ActionChip(
-                  label: const Text('Wi-Fi (192.168.1.4)', style: TextStyle(fontSize: 11)),
-                  onPressed: () => controller.text = 'http://192.168.1.4:5276/api/',
+                  label: const Text('Wi-Fi (192.168.1.47)', style: TextStyle(fontSize: 11)),
+                  onPressed: () => controller.text = 'http://192.168.1.47:5276/api/',
                 ),
                 ActionChip(
                   label: const Text('USB (127.0.0.1)', style: TextStyle(fontSize: 11)),

@@ -6,7 +6,7 @@ echo ======================================================================
 echo    HỆ THỐNG MÁY CHỦ WEB API ĐIỂM DANH SINH VIÊN - TỪ MINH HIỂN
 echo ======================================================================
 echo  * Swagger API (Local):  http://127.0.0.1:5276/swagger
-echo  * Swagger API (LAN/Wi-Fi): http://192.168.1.4:5276/swagger
+echo  * Swagger API (LAN/Wi-Fi): http://192.168.1.47:5276/swagger
 echo  * Database SQL Server:  .\SQLEXPRESS -> 0630_TuMinhHien_WebAPI
 echo.
 echo  * Tài khoản Admin:      admin01   / AdminPassword123!
